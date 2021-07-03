@@ -1,2 +1,2 @@
 # pantryguru-backend
-AWS Lambdas for pantryguru
+AWS stuff for pantryguru
