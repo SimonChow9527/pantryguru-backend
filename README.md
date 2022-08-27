@@ -1,2 +1,2 @@
 # pantryguru-backend
-AWS stuff for pantryguru
+To be completed
